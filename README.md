@@ -8,3 +8,6 @@ https://www.youtube.com/watch?v=9YN1R6Lh9Jo
 t05_policy_iterations_5_animation.py  - policy iteration algorithm on 4x3 world with iteration visiaulization and saves result to mp4 video file, see point in the book : 17.3 POLICY ITERATION  
 Result:  
 https://www.youtube.com/watch?v=E8e5ed1MGMk  
+t08_q_learning_8_animation_tmp2.py  - Q-learning algorithm on 4x3 world with iteration visiaulization and saves result to mp4 video file, see point in the book : 21.3 ACTIVE REINFORCEMENT LEARNING  
+Result:  
+https://www.youtube.com/watch?v=6KT5cmESrNw  
